@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">4Quizer</string>
+    <string name="start_button_txt">Start Quiz</string>
+    <string name="stop_button_txt">Stop Quiz</string>
+    <string name="highscore_zero">Highscore: 0</string>
+    <string name="score_zero">Score: 0</string>
+    <string name="question_1_of_x">Question: 1/x</string>
+    <string name="text_30_secs">00:30</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+
+
+
+</resources>
